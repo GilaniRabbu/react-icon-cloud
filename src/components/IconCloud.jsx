@@ -12,6 +12,7 @@ const defaultSlugs = [
   "typescript",
   "vuedotjs",
   "angular",
+  "vite",
   "git",
   "github",
   "gitlab",
